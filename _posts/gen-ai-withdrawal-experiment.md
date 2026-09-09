@@ -1,6 +1,7 @@
 ---
 title: "My First GenAI Withdrawal Experiment: A random experiment by a Master's student in Computer Science*"
 date: 2025-09-24
+excerpt: "This experiment is based on a personal anecdote, exploring life without conversational Generative AI..."
 # permalink: /posts/2013/08/blog-post-2/
 tags:
   - Artificial Intelligence

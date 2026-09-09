@@ -1,6 +1,7 @@
 ---
 title: 'Why, though?'
 date: 2026-02-20
+excerpt: "We've collectively agreed to outsource emotional expression to commodities. Instead of showing love directly..."
 # permalink: /posts/2012/08/blog-post-1/
 tags:
   - Existential Philosophy

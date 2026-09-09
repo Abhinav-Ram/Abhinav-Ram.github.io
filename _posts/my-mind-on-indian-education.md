@@ -1,6 +1,7 @@
 ---
 title: 'Education is not just Content Transfer: My mind on Indian Education'
 date: 2021-09-30
+excerpt: 'I just saw a video where an astrophysicist Janna J. Levin was discussing gravity with people from different ages...'
 # permalink: /posts/2012/08/blog-post-1/
 tags:
   - Indian Education
