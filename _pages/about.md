@@ -17,7 +17,7 @@ I am an aspiring AI engineer, which is what people who are Mathematicians, Compu
 
 To say more, I do enjoy exploring several methods to solve a particular project task while simultaneously paying respect to proven and effective ones in the literature. This has been reflected throughout my education, be it statistical ML, deep learning, and probabilistic methods, or the more recent LLMs and Agentic AI where I've got hands on experience and understanding in. I have also explored accross multiple modalities, namely text, graph, image, and speech data.
 
-For now, I am still in Sweden, and looking to pursue my career either in industry-forward or academic opportunities. The search is still going. I stand by a strong belief that careers in my field naturally gravitate toward the intersection of AI and other information-rich fields, so there will always be something to work on and collaborate with. My interest is also driven by the same. So in short, if you are in such a domain which allows yourself to seek my expertise and myself to expand along your knowledge base, don't hesitate to reach out.
+For now, I am still in Sweden, and looking to pursue my career either in industry-forward or academic opportunities. The search is going strong. I stand by a strong belief that careers in my field naturally gravitate toward the intersection of AI and other information-rich fields, so there will always be something to work on and collaborate with. My interest is also driven by the same. So in short, if you are in such a domain which allows yourself to seek my expertise and myself to expand along your knowledge base, don't hesitate to reach out.
 
 Am I suitable to join your glorious megacorp and save the world?
 ------
