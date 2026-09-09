@@ -30,4 +30,6 @@ Designed and implemented a behavioural biometric authentication system leveragin
 - Built a Revenue predictor using Python with NumPy and the SciKitLearn library, where the program inputs an artist’s Spotify data, with country, revenue and number of streams as some of the features, and uses random forest to estimate Total Revenue.
 - Developed a Workflow management system, or "Kanban Board" as a text‑query‑based program. Where I implemented it using Core Java Principles and simple terminal based UI.
 
-
+Do I mean what I say?
+------
+I do, ask my friends. Actually, just see for it yourself: [Bachelor's Transcript]({{ site.url }}{{ site.baseurl }}/files/TranscriptBE.pdf).

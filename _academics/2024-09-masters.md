@@ -28,3 +28,7 @@ I researched the development of a pipeline to transform heterogeneous EHR data i
 - Worked on a Social Data Mining Project where I analysed ∼1.7M tweets from the 2020 US Presidential Election to study structural and semantic polarisation across Trump and Biden discourse networks. E.g., I applied Louvain community detection to retweet and mention graphs, quantified semantic divergence using BERTopic and SharedLDA with Jensen‑Shannon divergence.
 -  Implemented and benchmarked Sparse Matrix‑Vector Multiplication (SpMVM) for a Conjugate Gradient solver using CRS and SELL‑C‑σ formats on NVIDIA GPU via CUDA. I analysed format conversion and host‑device transfer overhead, proposing amortisation strategies and GPU‑side conversion to mitigate SELL‑C‑σ setup costs.
 -  Developed a real‑time communication system between Two Raspberry Pi devices using MQTT Protocol and designed an intuitive User Interface to exchange messages.
+
+Where am I in my journey?
+------
+I graduated in June 2026. Check it out: [Master's Transcript]({{ site.url }}{{ site.baseurl }}/files/TranscriptMSc.pdf).
