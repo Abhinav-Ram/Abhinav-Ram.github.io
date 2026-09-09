@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 Vanakkam! (Transl: "Welcome!")
+
 This is a functional, evolving and curiosity-driven portfolio of "Yours truly," who's also similarly functional, evolving and curiosity-driven. ~~This portfolio isn't catered to any beauty standards~~ is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on [GitHub pages](https://pages.github.com). 
 
 A data-driven personal page for a similarly data-driven AI engineer
