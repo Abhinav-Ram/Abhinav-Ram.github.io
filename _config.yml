@@ -224,6 +224,9 @@ collections:
   academics:
     output: true
     permalink: /:collection/:path/
+  industry:
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -262,6 +265,15 @@ defaults:
   - scope:
       path: ""
       type: academics
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _industry
+  - scope:
+      path: ""
+      type: industry
     values:
       layout: single
       author_profile: true
