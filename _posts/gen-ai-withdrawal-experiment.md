@@ -1,6 +1,6 @@
 ---
 title: "My First GenAI Withdrawal Experiment: A random experiment by a Master's student in Computer Science*"
-date: 2013-08-14
+date: 2025-09-24
 # permalink: /posts/2013/08/blog-post-2/
 tags:
   - Artificial Intelligence
