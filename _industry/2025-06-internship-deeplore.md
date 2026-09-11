@@ -14,7 +14,7 @@ During my summer internship at DeepLore, I explored various use cases for their 
 
 At Deeplore I was supervised by [Prabhu Raghav](https://www.linkedin.com/in/prabhuraghav/) and [Balamurugam P](https://www.linkedin.com/in/balamurugan-p-405a851b4/) for my various internship tasks as I gained both hands-on experience and knowledge about the latest Agentic AI technology. I would like to thank the Deeplore team for their mentorship and guidance throughout this journey.
 
-Don't just take my word for it, as in fact, [he had a few things to say]({{ site.url }}{{ site.baseurl }}/files/DeeploreInternshipCertificate.pdf) about the internship too. 
+Don't just take my word for it, as in fact, [he had a few things to say]({{ site.url }}{{ site.baseurl }}/files/Letters/DeeploreInternshipCertificate.pdf) about the internship too. 
 
 ## Skills & Technologies
 LLMs (GPT, Gemini, Claude, Mistral, Deepseek, LLama) • RAG • Prompt Engineering • Agentic AI Workflows • MCP (Model Context Protocol) • Cloud (Azure, AWS, GCP, Entra IAM) • GRC

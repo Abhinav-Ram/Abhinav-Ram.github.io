@@ -10,9 +10,9 @@
   width: 100%;
 
   -webkit-animation: intro 0.3s both;
-          animation: intro 0.3s both;
+  animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
-          animation-delay: 0.15s;
+  animation-delay: 0.15s;
   z-index: 20;
 
   &::after {
@@ -70,12 +70,21 @@
   color: var(--global-text-color);
   font-weight: 700;
   border-bottom: 2px solid var(--global-text-color);
-  pointer-events: none; /* Move this here */
-  cursor: default; /* Move this here too */
+  pointer-events: none;
+  /* Move this here */
+  cursor: default;
+  /* Move this here too */
 }
 
 .masthead__menu-item.selected a:hover {
   color: var(--global-text-color);
   border-bottom: 2px solid var(--global-text-color);
   /* No need to repeat pointer-events and cursor here */
+}
+
+.nav-image {
+  height: 1.2em;
+  width: auto;
+  display: inline-block;
+  vertical-align: middle;
 }
