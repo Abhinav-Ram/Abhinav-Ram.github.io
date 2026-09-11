@@ -32,4 +32,4 @@ Designed and implemented a behavioural biometric authentication system leveragin
 
 Do I mean what I say?
 ------
-I do, ask my friends. Actually, just see for it yourself: [Bachelor's Transcript]({{ site.url }}{{ site.baseurl }}/files/TranscriptBE.pdf).
+I do, ask my friends. Actually, just see for it yourself: [Bachelor's Transcript]({{ site.url }}{{ site.baseurl }}/files/TranscriptBE.pdf). Also, during the course of my Bachelor's, two professors vouched for my performance in coursework as well as projects where I worked with them. You can check them out [here]({{ site.url }}{{ site.baseurl }}/files/Letters/LOR_BB.pdf) and [here]({{ site.url }}{{ site.baseurl }}/files/Letters/LOR_JB.pdf)!

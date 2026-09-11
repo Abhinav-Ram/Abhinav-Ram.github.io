@@ -35,4 +35,4 @@ I graduated in June 2026. Check it out: [Master's Transcript]({{ site.url }}{{ s
 
 Recommendations
 ------
-My professor Ekta Vats, who taught me Large Language Models, had a few kind words to say about my performance during the course. Check this out as well: [Recommendation]({{ site.url }}{{ site.baseurl }}/files/Letter_EV.pdf).
+My professor Ekta Vats, who taught me Large Language Models, had a few kind words to say about my performance during the course. Check this out as well: [Recommendation]({{ site.url }}{{ site.baseurl }}/files/Letters/Letter_EV.pdf).
