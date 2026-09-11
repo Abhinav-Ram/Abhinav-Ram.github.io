@@ -32,3 +32,7 @@ I researched the development of a pipeline to transform heterogeneous EHR data i
 Where am I in my journey?
 ------
 I graduated in June 2026. Check it out: [Master's Transcript]({{ site.url }}{{ site.baseurl }}/files/TranscriptMSc.pdf).
+
+Recommendations
+------
+My professor Ekta Vats, who taught me Large Language Models, had a few kind words to say about my performance during the course. Check this out as well: [Recommendation]({{ site.url }}{{ site.baseurl }}/files/Letter_EV.pdf).
