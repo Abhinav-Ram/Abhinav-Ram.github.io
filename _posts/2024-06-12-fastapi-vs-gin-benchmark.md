@@ -1,7 +1,7 @@
 ---
-title: "FastAPI vs Gin under load: a benchmark that says less than you think"
+title: "Performance Comparison between High-Performance Web Application Frameworks — A Case Study"
 date: 2024-06-12
-excerpt: "A practical comparison of FastAPI and Gin under increasing concurrency, with a reminder that the framework is not the whole story."
+excerpt: "A practical comparison of FastAPI and Gin under increasing concurrency."
 tags:
   - Python
   - Go
