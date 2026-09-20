@@ -11,7 +11,8 @@ Part of the reason I took computer science is that it can be inherently interdis
 
 
 - Speaking of Culinary, I have a culinary page titled [Uppu Konjam Kammi](https://instagram.com/uppukonjamkammi) (transl. A Little Less Salty) where I post the stuff I cook from time to time. 
-- Speaking of Cinema, I also have a [Letterboxd Account](https://letterboxd.com/AbhinavRam/) where I log and review my movie watches. I am recently interested a lot in alien/superintelligence-themed Science Fiction, so if you have some recommendations, let me know.
+
+- Speaking of Cinema, I also have a [Letterboxd Account](https://letterboxd.com/AbhinavRam/) where I log and review my movie watches. I am recently interested a lot in alien/superintelligence-themed Science Fiction, so if you have some recommendations, let me know. Speaking of movie recommendations, check out [Cinevault](https://github.com/Abhinav-Ram/CineVault), an AI-powered tool that analyzes movies using real-time data from IMDb, Letterboxd, and Metacritic to determine if they are suitable for your movie night group.
 
 ## Games
 As a hobby, I like to play computer games as well (Common hobby, I know)... that I created myself. A lot of these are vibe coded though, but the ideas and creativity are all mine.
