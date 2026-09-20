@@ -13,7 +13,7 @@ tags:
 ## The hook
 My mom runs a small business where she makes little 3D-modelled objects and raised-relief model objects. One of her things is to print them in white and bundle them with a small painting kit, marketing them as a kids' painting hobby. Having caught up with the latest trends, she uses quite a bit of AI here and there. More recently, she wanted to write small stories to go with the objects she sells, and was considering using AI to polish the story-writing and text. At first, I was like: "But what about human creativity? What about water resources?" But that got me thinking...
 
-Credits to [Ramalingam R](https://www.linkedin.com/in/ramalingam-r-76912123/) for his supervision on conducting this project. You can find this project's work in this [Github Repository](https://github.com/Abhinav-Ram/TinyStoriesLM/)
+Credits to [Ramalingam R](https://www.linkedin.com/in/ramalingam-r-76912123/) for his supervision on conducting this project. You can find this project's work in this [Github Repository](https://github.com/Abhinav-Ram/TinyStoriesLM/). [Claude Code](https://claude.com/product/claude-code) was used to create the codebase and experimental setup for the project.
 
 ## Motivation
 
