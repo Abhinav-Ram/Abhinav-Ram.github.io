@@ -22,7 +22,7 @@ I have attended a wide range of courses covering theoretical, engineering-heavy,
 
 ## Projects
 ### Bachelor's Thesis
-Designed and implemented a behavioural biometric authentication system leveraging the University of Buffalo’s dataset. The architecture processed high-overlap, noisy spatial-temporal data, extracting keystroke duration patterns alongside mouse angle and distance statistics. The system coupled Gated Recurrent Units (GRU) with Support Vector Machines (SVM) to dynamically project imposter probability scores during live navigation events.
+Designed and implemented a behavioural biometric authentication system leveraging the University of Buffalo’s dataset. The architecture processed high-overlap, noisy spatial-temporal data, extracting keystroke duration patterns alongside mouse angle and distance statistics. The system coupled Gated Recurrent Units (GRU) with Support Vector Machines (SVM) to dynamically project imposter probability scores during live navigation events. Here is my Thesis Report: [Thesis Report]({{ site.url }}{{ site.baseurl }}/files/Projects/ThesisBE.pdf)
 
 ### Course Projects
 - Developed a Automated Canteen system to track incoming orders. It was implemented using Flask Backend and Tailwind CSS with a component library named DaisyUI. I incorporated the following features: Login of Users and Canteen Staff, Create and edit menu items, Place orders, Order Tracking, Generate Bills.

@@ -18,7 +18,7 @@ During my Bachelor's Program, I have been exposed to an Introduction in **Artifi
 
 ## Projects
 ### Master's Thesis
-I researched the development of a pipeline to transform heterogeneous EHR data into canonical knowledge-graph representations. A major part of my work involved profiling EHR tables, identifying suitable representations, comparing methodological approaches, and evaluating their performance on high-quality, de-identified, public medical datasets. I contributed to a unified, standard-agnostic framework for health data harmonization and knowledge graph construction.
+I researched the development of a pipeline to transform heterogeneous EHR data into canonical knowledge-graph representations. A major part of my work involved profiling EHR tables, identifying suitable representations, comparing methodological approaches, and evaluating their performance on high-quality, de-identified, public medical datasets. I contributed to a unified, standard-agnostic framework for health data harmonization and knowledge graph construction. Here is my Thesis Report: [Thesis Report]({{ site.url }}{{ site.baseurl }}/files/Projects/MastersThesis.pdf)
 
 ### Course Projects
 - Developed a scalable uncertainty-aware inference pipeline to obtain the posterior distribution of the diffusion tensor and baseline MRI signal for a single voxel, where I worked with real-world MRI data and compared multiple Bayesian inference methods: Metropolis-Hastings, Importance Sampling, Variational Inference, and the Laplace approximation. [Report]({{ site.url }}{{ site.baseurl }}/files/Projects/APML_Project_Report.pdf)
