@@ -25,12 +25,13 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Abhinav Ramalingam"
-  pronouns         : "he/him"
+  pronouns         : "He/Him"
   bio              : "M.Sc. Computer Science"
-  location         : "Uppsala,SE"
+  location         : "Uppsala, Sweden"
   employer         : "Uppsala University"
   uri              : # URL
-  email            : "abhinavram2002@gmail.com" 
+  email            : "abhinavram2002@gmail.com"
+  phone            : "+46 73 493 55 74"  
 
   # Academic websites
   academia         : # URL
